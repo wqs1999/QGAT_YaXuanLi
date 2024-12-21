@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This is a simple Python project containing a main file `main.py`.
+This is the Python project for QGAT (Quantum Graph Attention Network).
 
 ## File Structure
 
